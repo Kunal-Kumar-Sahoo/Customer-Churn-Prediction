@@ -36,6 +36,7 @@ def user_input_features() -> pd.DataFrame:
 
 
 if __name__ == '__main__':
+    st.set_page_config(page_title='Churn Predictor')
     st.markdown('''
 <h1> Churn Prediction App </h1>
 
