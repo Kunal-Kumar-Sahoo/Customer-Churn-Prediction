@@ -17,3 +17,4 @@ python run src/modely.py
 streamlit run src/app.py
 ```
 
+You can test it out. [Click here!](https://kunalkumarsahoo-churn-pred.onrender.com)
